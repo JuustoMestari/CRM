@@ -11,9 +11,9 @@ CRM
 * This class is better and has several interesting methods.
 * Program.cs is a good demonstration on how to use it.
 
-### CRM 2013
+## CRM 2013
 
 * **To do** when I installed it...
 
 
-> In any case, feel free to contact me for more info !
+> Feel free to contact me for more info !
